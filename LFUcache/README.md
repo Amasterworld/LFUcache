@@ -23,7 +23,8 @@ Short Description:
  
 	
 Installation :
-	● Updating
+	● if you are using Xcode, so it is very simple, open it and run
+	● MSVS - Updating
 	
 	
 Data structure:
