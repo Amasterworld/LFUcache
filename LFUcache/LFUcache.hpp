@@ -2,7 +2,7 @@
 //  LFUcache.hpp
 //  LFUcache
 //
-//  Created by Phuong Duong Bich on 26.07.22.
+//  Created by Thao Nguyen on 26.07.22.
 //
 
 #ifndef LFUcache_hpp
